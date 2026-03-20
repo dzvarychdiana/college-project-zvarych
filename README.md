@@ -13,6 +13,7 @@ SDLC артефакти: docs/PR2_SDLC_Artifacts.docx
 Scrum-план і MVP: docs/PR3_ScrumPlan_MVP.docx
 Backlog (декомпозиція MVP): docs/PR4_Backlog_Decomposition.docx
 Проміжна версія: docs/PR5_Intermediate_Version.docx
+Регламент ведення проєкту: docs/PR6_Project_Regulation.docx
 Діаграми: diagrams/
 Прототип: prototype/
 Тести: tests/
