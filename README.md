@@ -14,6 +14,7 @@ Scrum-план і MVP: docs/PR3_ScrumPlan_MVP.docx
 Backlog (декомпозиція MVP): docs/PR4_Backlog_Decomposition.docx
 Проміжна версія: docs/PR5_Intermediate_Version.docx
 Регламент ведення проєкту: docs/PR6_Project_Regulation.docx
+Вимоги до продукту: docs/PR7_Product_Requirements.docx
 Діаграми: diagrams/
 Прототип: prototype/
 Тести: tests/
